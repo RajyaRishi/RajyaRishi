@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajyavardhan Choudhury
 - 👀 I’m interested in C/C++ programming, HTML5 webpages
-- 🌱 I’m currently learning everything from SMIT
+- 🌱 I’m currently learning everything from SMIT and Animation with Adobe After Effects
 - 💞️ I’m looking to collaborate on anything involving C/C++
 - 📫 Reach me on Discord D.E.M.O.N#8381
 
